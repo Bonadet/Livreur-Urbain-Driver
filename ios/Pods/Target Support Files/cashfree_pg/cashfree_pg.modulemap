@@ -1,0 +1,6 @@
+framework module cashfree_pg {
+  umbrella header "cashfree_pg-umbrella.h"
+
+  export *
+  module * { export * }
+}

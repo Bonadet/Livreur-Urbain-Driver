@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>79093478358-uv3uqdkife2mddh9j8oij6lm2ke5l51f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.79093478358-uv3uqdkife2mddh9j8oij6lm2ke5l51f</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>79093478358-4nc2fq28oeduff7u5q4mk9t4k4per4c8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAyYhW9Db-VKjCJqRHJozqzIyBlXKT64BA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>79093478358</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterDriver.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>livreur-urbain</string>
+	<key>STORAGE_BUCKET</key>
+	<string>livreur-urbain.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:79093478358:ios:7fba15e84270edc100ea77</string>
+	<key>DATABASE_URL</key>
+	<string>https://livreur-urbain-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

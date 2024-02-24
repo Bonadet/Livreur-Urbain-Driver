@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "79093478358",
+    "firebase_url": "https://livreur-urbain-default-rtdb.firebaseio.com",
+    "project_id": "livreur-urbain",
+    "storage_bucket": "livreur-urbain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79093478358:android:9ce187f399f2571600ea77",
+        "android_client_info": {
+          "package_name": "com.livreururbain.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79093478358-cq1dolsi001v7717m5leefjkmilfo4tb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.livreururbain.driver",
+            "certificate_hash": "a077c83840562ab3a4c5c168ce7f86234d30436e"
+          }
+        },
+        {
+          "client_id": "79093478358-hrpsrf9pagl8ua8tvu4pq59mkq8oatol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcMjiaqL_dxhOWzJbZOfzcqDx3_99mu1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79093478358-fi6ksi9mqaalk02nh3fcc77j410rcuet.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "79093478358-014jv06e8nr2luhvjb6cijcs5k7dq429.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codebrew.BioBoss-Driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79093478358:android:e333c1123b9bf1db00ea77",
+        "android_client_info": {
+          "package_name": "com.livreururbain.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79093478358-5aqtcgi61j2duc1r0kj2urj55ani7bo7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.livreururbain.user",
+            "certificate_hash": "a077c83840562ab3a4c5c168ce7f86234d30436e"
+          }
+        },
+        {
+          "client_id": "79093478358-hrpsrf9pagl8ua8tvu4pq59mkq8oatol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcMjiaqL_dxhOWzJbZOfzcqDx3_99mu1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79093478358-fi6ksi9mqaalk02nh3fcc77j410rcuet.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "79093478358-014jv06e8nr2luhvjb6cijcs5k7dq429.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codebrew.BioBoss-Driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79093478358:android:ee91a4bd1a2667a800ea77",
+        "android_client_info": {
+          "package_name": "com.project.name"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79093478358-bkcrj7sgg75hhpmseb32f0sd9hpp07if.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.name",
+            "certificate_hash": "a077c83840562ab3a4c5c168ce7f86234d30436e"
+          }
+        },
+        {
+          "client_id": "79093478358-hrpsrf9pagl8ua8tvu4pq59mkq8oatol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcMjiaqL_dxhOWzJbZOfzcqDx3_99mu1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79093478358-fi6ksi9mqaalk02nh3fcc77j410rcuet.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "79093478358-014jv06e8nr2luhvjb6cijcs5k7dq429.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codebrew.BioBoss-Driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79093478358:android:da7f8a0f4ba3f55300ea77",
+        "android_client_info": {
+          "package_name": "tagxi.bidding.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79093478358-eo9m3m2c6skb3164g94rvaes599oef5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tagxi.bidding.driver",
+            "certificate_hash": "a077c83840562ab3a4c5c168ce7f86234d30436e"
+          }
+        },
+        {
+          "client_id": "79093478358-hrpsrf9pagl8ua8tvu4pq59mkq8oatol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcMjiaqL_dxhOWzJbZOfzcqDx3_99mu1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79093478358-fi6ksi9mqaalk02nh3fcc77j410rcuet.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "79093478358-014jv06e8nr2luhvjb6cijcs5k7dq429.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codebrew.BioBoss-Driver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
